@@ -1,0 +1,7 @@
+add ajax example on homepage
+in test page, add a random function 
+that shuffles one of the questions
+every time it asks the multiple of a 
+number from 1-20
+to answer this, refer the ajaxexample
+page which should open in a new tab
